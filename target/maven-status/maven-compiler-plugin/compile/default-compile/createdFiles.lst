@@ -1,0 +1,10 @@
+productpacking2\AbstractEvent.class
+productpacking2\OrderList.class
+productpacking2\Packingordered.class
+productpacking2\ProductPacked.class
+productpacking2\AbstractEvent$1.class
+productpacking2\PolicyHandler.class
+productpacking2\Application.class
+productpacking2\OrderListRepository.class
+productpacking2\config\kafka\KafkaProcessor.class
+productpacking2\OrderListViewHandler.class
